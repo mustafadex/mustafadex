@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- Hi, I'm Mustafa Serdar Karaduman, a Full Stack Web Developer 🚀.
+ Hi, I'm Mustafa Serdar Karaduman, a Backend Web Developer 🚀.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mustafadex)
 ## **Talking about Personal Stuffs:**
